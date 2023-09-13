@@ -1,0 +1,6 @@
+print('Pál-Szabó András')
+print('     @')
+print('    @@@')
+print('   @@@@@')
+print('  @@@@@@@')
+print(' @@@@@@@@@')
